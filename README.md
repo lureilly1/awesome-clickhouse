@@ -9,7 +9,7 @@ Table of Contents:
 - [Language bindings](#language-bindings)
     - [C/C++](#c/c++) (6)
     - [Elixir](#elixir) (1)
-    - [JavaScript/Typescript](#javascript/typescript) (5)
+    - [JavaScript/Typescript](#javascript/typescript) (6)
     - [Golang](#golang) (13)
     - [Java](#java) (8)
     - [.Net](#.net) (3)
@@ -57,6 +57,7 @@ Table of Contents:
 - [apla/node-clickhouse](https://github.com/apla/node-clickhouse) (215 JavaScript) - A Node.js driver providing a simple and powerful interface to interact with the ClickHouse database, supporting efficient query execution and bulk data loading.
 - [Canner/vulcan-sql](https://github.com/Canner/vulcan-sql) (793 TypeScript) - VulcanSQL is an Analytical Data API Framework that simplifies and accelerates the creation of secure, scalable RESTful APIs from databases and data warehouses for AI agents and data applications.
 - [ClickHouse/clickhouse-js](https://github.com/ClickHouse/clickhouse-js) (326 TypeScript) - Official JavaScript client for ClickHouse database providing streaming support and compatibility across Node.js and web environments.
+- [hypequery/hypequery](https://github.com/hypequery/hypequery) (104 TypeScript) - hypequery is an open-source analytics layer for ClickHouse that lets you define datasets, dimensions, and measures once in TypeScript or Python and serve them as type-safe queries, authenticated HTTP APIs, React hooks, and MCP tools for AI agents.
 - [TimonKK/clickhouse](https://github.com/TimonKK/clickhouse) (222 JavaScript) - A NodeJS client for ClickHouse enabling query execution, streaming, session management, and data insertion over HTTP interface.
 
 ### Golang
