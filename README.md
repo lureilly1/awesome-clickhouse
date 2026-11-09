@@ -9,13 +9,13 @@ Table of Contents:
 - [Language bindings](#language-bindings)
     - [C/C++](#c/c++) (6)
     - [Elixir](#elixir) (1)
-    - [JavaScript/Typescript](#javascript/typescript) (5)
+    - [JavaScript/Typescript](#javascript/typescript) (6)
     - [Golang](#golang) (13)
     - [Java](#java) (8)
     - [.Net](#.net) (3)
     - [ODBC](#odbc) (1)
     - [PHP](#php) (4)
-    - [Python](#python) (17)
+    - [Python](#python) (18)
     - [Ruby](#ruby) (2)
     - [Rust](#rust) (9)
     - [Scala](#scala) (3)
@@ -57,6 +57,7 @@ Table of Contents:
 - [apla/node-clickhouse](https://github.com/apla/node-clickhouse) (215 JavaScript) - A Node.js driver providing a simple and powerful interface to interact with the ClickHouse database, supporting efficient query execution and bulk data loading.
 - [Canner/vulcan-sql](https://github.com/Canner/vulcan-sql) (793 TypeScript) - VulcanSQL is an Analytical Data API Framework that simplifies and accelerates the creation of secure, scalable RESTful APIs from databases and data warehouses for AI agents and data applications.
 - [ClickHouse/clickhouse-js](https://github.com/ClickHouse/clickhouse-js) (326 TypeScript) - Official JavaScript client for ClickHouse database providing streaming support and compatibility across Node.js and web environments.
+- [hypequery/hypequery](https://github.com/hypequery/hypequery) (104 TypeScript) - hypequery is an open-source embedded analytics toolkit for ClickHouse that lets you define datasets, dimensions, measures and metrics in TypeScript and serve them as type-safe queries, authenticated HTTP APIs with OpenAPI, React hooks and MCP tools for AI agents.
 - [TimonKK/clickhouse](https://github.com/TimonKK/clickhouse) (222 JavaScript) - A NodeJS client for ClickHouse enabling query execution, streaming, session management, and data insertion over HTTP interface.
 
 ### Golang
@@ -114,6 +115,7 @@ Table of Contents:
 - [ClickHouse/clickhouse-connect](https://github.com/ClickHouse/clickhouse-connect) (511 Python) - ClickHouse Connect is a high-performance Python driver that enables seamless integration of ClickHouse with Python data tools like Pandas, SQLAlchemy, and Apache Superset for efficient data access and visualization.
 - [ClickHouse/dbt-clickhouse](https://github.com/ClickHouse/dbt-clickhouse) (356 Python) - dbt-clickhouse is a plugin that integrates dbt functionality with ClickHouse, enabling advanced data transformation, modeling, and testing capabilities on ClickHouse databases.
 - [cloudflare/sqlalchemy-clickhouse](https://github.com/cloudflare/sqlalchemy-clickhouse) (324 Python) - sqlalchemy-clickhouse is a SQLAlchemy dialect that enables seamless integration with the ClickHouse database for efficient data querying and manipulation.
+- [hypequery/hypequery](https://github.com/hypequery/hypequery) (104 TypeScript) - hypequery's Python SDK lets you define ClickHouse datasets, dimensions, measures and metrics in Python and serve them as authenticated APIs (FastAPI, Django) and MCP tools for AI agents from your own backend.
 - [Infinidat/infi.clickhouse_orm](https://github.com/Infinidat/infi.clickhouse_orm) (421 Python) - infi.clickhouse_orm is a Python ORM library that simplifies working with the ClickHouse database by enabling easy model definition, data insertion, and querying.
 - [jayvynl/django-clickhouse-backend](https://github.com/jayvynl/django-clickhouse-backend) (198 Python) - Django-clickhouse-backend is a Django database backend that enables seamless interaction with ClickHouse using Django ORM, supporting ClickHouse-specific features and efficient connection pooling.
 - [kszucs/pandahouse](https://github.com/kszucs/pandahouse) (239 Python) - Pandahouse is a Python library providing a Pandas interface to interact with ClickHouse databases via HTTP API for efficient data reading and writing.
